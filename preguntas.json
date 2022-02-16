@@ -1,0 +1,82 @@
+[
+    {
+      "pregunta": "¿Que equipo fue el primer campeón de la Copa Libertadores?",
+      "opcion1": "Peñarol",
+      "opcion2": "Boca",
+      "opcion3": "Independiente",
+      "opcion4": "Gremio",
+      "respuesta": 1
+    },
+    {
+      "pregunta":"¿Quien es el maximo goleador historico de la Liga Española?",
+      "opcion1": "Ronaldo",
+      "opcion2": "Messi",
+      "opcion3": "Raul",
+      "opcion4": "Di Stefano",
+      "respuesta": 2
+    },
+    {
+      "pregunta": "¿Que equipo tiene mas copas del mundo?",
+      "opcion1": "Brasil",
+      "opcion2": "Alemania",
+      "opcion3": "Uruguay",
+      "opcion4": "Italia",
+      "respuesta": 1
+    },
+    {
+      "pregunta": "¿En que año se jugo la primer Copa America?",
+      "opcion1": "1945",
+      "opcion2": "1925",
+      "opcion3": "1923",
+      "opcion4": "1916",
+      "respuesta": 4
+    },
+    {
+      "pregunta": "¿Que equipo fue  el primer campeón de la Copa Intercontinental?",
+      "opcion1": "Peñarol",
+     "opcion2": "River Plate",
+      "opcion3": "Real Madrid",
+      "opcion4": "Santos",
+      "respuesta": 3
+    },
+    {
+      "pregunta": "¿Quien es el máximo goleador de la historia de los Mundiales",
+      "opcion1": "Ronaldo",
+      "opcion2": "Just Fontaine",
+      "opcion3": "Gerd Muller",
+      "opcion4": "Miroslav Klose",
+      "respuesta": 4
+    },
+    {
+      "pregunta": "¿Que equipo tiene mas copas Libertadores?",
+      "opcion1": "Estudiantes",
+      "opcion2": "Boca Juniors",
+      "opcion3": "Peñarol",
+      "opcion4": "Independiente",
+      "respuesta": 4
+    },
+    {
+      "pregunta": "¿Quien es el máximo goleador de la historia de la copa Libertadores",
+      "opcion1": "Alberto Spencer",
+      "opcion2": "Fernando Morena",
+      "opcion3": "Daniel Onega",
+      "opcion4": "Pedro Rocha",
+      "respuesta": 1
+    },
+    {
+      "pregunta": "¿Qué selección ganó la primera Copa del Mundo ?",
+      "opcion1": "Francia",
+      "opcion2": "Uruguay",
+      "opcion3": "Argentina",
+      "opcion4": "Brasil",
+      "respuesta": 2
+    },
+    {
+      "pregunta": "¿Qué club tiene más títulos de la Champions League?",
+      "opcion1": "Liverpool",
+      "opcion2": "Milan",
+      "opcion3": "Real Madrid",
+      "opcion4": "Bayern Munich",
+      "respuesta": 3
+    }
+  ]
